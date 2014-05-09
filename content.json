@@ -1,1 +1,18 @@
-{}
+{
+    "few_choices": {
+        "hard_soft": {},
+        "selectedChoice": "Paardenoog"
+    },
+    "many_choices": {
+        "light_dark": {},
+        "selectedChoice": "Blauw"
+    },
+    "yes_no_choice": {
+        "selectedChoice": "Nee"
+    },
+    "yes_no_multichoice": {
+        "selectedChoices": {
+            "Ben je wel eens verkouden?": true
+        }
+    }
+}
