@@ -1,18 +1,24 @@
 {
     "few_choices": {
-        "hard_soft": {},
-        "selectedChoice": "Paardenoog"
+        "hard_soft": {
+            "selectedChoice": "Hard"
+        },
+        "selectedChoice": "Gekookt"
     },
     "many_choices": {
-        "light_dark": {},
+        "light_dark": {
+            "selectedChoice": "Licht"
+        },
         "selectedChoice": "Blauw"
     },
     "yes_no_choice": {
-        "selectedChoice": "Nee"
+        "selectedChoice": "Ja",
+        "allergy": "Alles wat niet lekker is ..."
     },
     "yes_no_multichoice": {
         "selectedChoices": {
             "Ben je wel eens verkouden?": true
-        }
+        },
+        "frequency": 3
     }
 }
